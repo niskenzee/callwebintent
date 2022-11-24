@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\layout_activity_calculator.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\layout\\activity_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_bckj.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\bckj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\layout_activity_web.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_splashie.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\splashie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_bckgrnd.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\bckgrnd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_bcklio.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\bcklio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_bckhio.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\bckhio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_splasha.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\splasha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.kimodnio.callwebintent.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.kimodnio.callwebintent.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\drawable_splisha.jpg.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\drawable\\splisha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\layout_activity_intent.xml.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\layout\\activity_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISKEN\\.gradle\\daemon\\7.5\\com.kimodnio.callwebintent.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

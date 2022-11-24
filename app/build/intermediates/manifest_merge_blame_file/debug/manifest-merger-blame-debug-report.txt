@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kimodnio.callwebintent"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.telephony"
+12-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:7:9-50
+13        android:required="false" />
+13-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:8:9-33
+14    <uses-feature
+14-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:6:5-8:36
+15        android:name="android.hardware.telephony"
+15-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:7:9-50
+16        android:required="false" />
+16-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:8:9-33
+17
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:13:5-67
+18-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.CALL_PHONE" />
+19-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:14:5-68
+19-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:14:22-66
+20
+21    <application
+21-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:17:5-50:19
+22        android:allowBackup="true"
+22-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:18:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.8.0] C:\Users\NISKEN\.gradle\caches\transforms-3\922a15a0c2d4d13a832fc7661a4228dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:19:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:20:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:21:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:22:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:23:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:24:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.Callwebintent" >
+32-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:25:9-51
+33        <activity
+33-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:27:9-35:16
+34            android:name="com.kimodnio.callwebintent.SplashActivity"
+34-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:28:13-43
+35            android:exported="true" >
+35-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:29:13-36
+36            <intent-filter>
+36-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:30:13-34:21
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:31:9-61
+37-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:31:17-58
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:33:9-69
+39-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:33:19-66
+40            </intent-filter>
+41        </activity>
+42/>
+43        <activity
+43-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:37:9-39:40
+44            android:name="com.kimodnio.callwebintent.WebActivity"
+44-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:38:13-40
+45            android:exported="false" />
+45-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:39:13-37
+46        <activity
+46-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:40:9-42:40
+47            android:name="com.kimodnio.callwebintent.IntentActivity"
+47-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:41:13-43
+48            android:exported="false" />
+48-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:42:13-37
+49        <activity
+49-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:43:9-45:40
+50            android:name="com.kimodnio.callwebintent.CalculatorActivity"
+50-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:44:13-47
+51            android:exported="false" />
+51-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:45:13-37
+52        <activity
+52-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:46:9-48:39
+53            android:name="com.kimodnio.callwebintent.MainActivity"
+53-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:47:13-41
+54            android:exported="false" />
+54-->C:\Users\NISKEN\AndroidStudioProjects\Callwebintent\app\src\main\AndroidManifest.xml:48:13-37
+55
+56        <provider
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+57            android:name="androidx.startup.InitializationProvider"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+58            android:authorities="com.kimodnio.callwebintent.androidx-startup"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+59            android:exported="false" >
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+60            <meta-data
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+62                android:value="androidx.startup" />
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NISKEN\.gradle\caches\transforms-3\a6d4a0999e65552062cbc840723f2ec9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NISKEN\.gradle\caches\transforms-3\9c68a48620548a2f17e42bf2f49fc4fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NISKEN\.gradle\caches\transforms-3\9c68a48620548a2f17e42bf2f49fc4fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+65                android:value="androidx.startup" />
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NISKEN\.gradle\caches\transforms-3\9c68a48620548a2f17e42bf2f49fc4fc\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+66        </provider>
+67    </application>
+68
+69</manifest>

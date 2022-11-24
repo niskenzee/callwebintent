@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kimodnio.callwebintent.app-mergeDebugResources-26:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\NISKEN\\.gradle\\caches\\transforms-3\\4d08e936d8c9c790f3bcbeef368cb6a9\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
